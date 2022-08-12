@@ -9,6 +9,6 @@ forma más transparente posible.
 
 install with pip
 
--PIP install Pandas
--PIP install pandas_profiling
--PIP install numpy
+##-PIP install Pandas
+##-PIP install pandas_profiling
+##-PIP install numpy
